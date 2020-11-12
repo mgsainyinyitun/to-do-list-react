@@ -10,7 +10,7 @@ const Item = (props) =>{
                 <p className="message">{props.text.item}</p>
             </div>
             <div className='del-wrap'>
-                <button className="del"> DEL </button>
+                <button className="del">DEL</button>
             </div>  
         </div>
     );

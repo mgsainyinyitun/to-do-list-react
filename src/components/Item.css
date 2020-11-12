@@ -29,8 +29,11 @@
 }
 .del{
     color: white;
-    width: 30%;
+    font-size: 8px;
+    width: 30px;
+    height: 30px;
     background-color: red;
-    border-radius: 15px;
+    border-radius: 50%;
+    text-align: center;
     margin-left: 30px;
 }
